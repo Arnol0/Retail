@@ -12,7 +12,6 @@ Generar datos sintéticos para análisis retail:
 - campañas
 - logs
 
-comando: docker compose exec spark python src/01_generate_retail_data.py
 Salida:
 data/raw/
 """
