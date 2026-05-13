@@ -1,0 +1,10 @@
+segmento_objetivo,canal,total_campanas,descuento_promedio
+Nuevo,push,249,17.27
+Nuevo,SMS,233,16.85
+Regular,email,230,16.67
+Premium,email,227,17.58
+Regular,SMS,225,16.49
+Premium,SMS,221,16.7
+Premium,push,211,18.29
+Nuevo,email,208,17.45
+Regular,push,196,17.68
