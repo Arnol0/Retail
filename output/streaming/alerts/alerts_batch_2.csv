@@ -1,0 +1,8 @@
+transaction_id,customer_name,product_name,category,city,total_amount,stock_actual,stock_minimo,risk_score,event_timestamp,batch_id
+TRX-00091803,Edgardo,Correa,Accesorios,Lima,283.98,33,35,0.9,2026-05-13 15:21:59,2
+TRX-00069163,Modesta,Silla,Hogar,Lima,220.26,8,12,0.82,2026-05-13 15:21:56,2
+TRX-00042925,Severino,Zapatillas,Calzado,Chiclayo,215.42,23,33,0.79,2026-05-13 15:21:53,2
+TRX-00098988,Cesar,Mesa,Hogar,Cusco,2177.94,6,19,0.73,2026-05-13 15:21:52,2
+TRX-00071458,Esther,Casaca,Ropa,Lima,2439.88,9,24,0.73,2026-05-13 15:21:58,2
+TRX-00088659,Marcela,Botas,Calzado,Chiclayo,2118.44,197,34,0.71,2026-05-13 15:21:53,2
+TRX-00003855,Germán,Guantes,Deportes,Lima,1635.75,139,37,0.71,2026-05-13 15:21:54,2

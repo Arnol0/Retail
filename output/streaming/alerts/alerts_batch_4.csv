@@ -1,0 +1,11 @@
+transaction_id,customer_name,product_name,category,city,total_amount,stock_actual,stock_minimo,risk_score,event_timestamp,batch_id
+TRX-00018839,Antonio,Pelota,Deportes,Chiclayo,307.01,20,26,0.94,2026-05-13 15:22:12,4
+TRX-00033677,Odalys,Casaca,Ropa,Lima,209.68,20,21,0.94,2026-05-13 15:22:19,4
+TRX-00014528,Eloy,Mesa,Hogar,Chiclayo,577.74,21,39,0.84,2026-05-13 15:22:11,4
+TRX-00078318,Gaspar,Mochila,Accesorios,Piura,599.02,7,29,0.82,2026-05-13 15:22:18,4
+TRX-00065905,Eusebio,Silla,Hogar,Cusco,220.26,8,12,0.81,2026-05-13 15:22:16,4
+TRX-00055186,Áurea,Correa,Accesorios,Piura,3452.6,375,40,0.75,2026-05-13 15:22:18,4
+TRX-00088726,Haroldo,Sandalias,Calzado,Lima,941.34,0,39,0.73,2026-05-13 15:22:16,4
+TRX-00026905,Zaida,Bicicleta,Deportes,Lima,2750.48,314,40,0.72,2026-05-13 15:22:12,4
+TRX-00011272,Mayte,Bicicleta,Deportes,Lima,1665.35,443,26,0.72,2026-05-13 15:22:17,4
+TRX-00024646,Custodio,Pelota,Deportes,Chiclayo,1601.8,457,16,0.7,2026-05-13 15:22:14,4

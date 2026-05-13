@@ -1,0 +1,10 @@
+transaction_id,customer_name,product_name,category,city,total_amount,stock_actual,stock_minimo,risk_score,event_timestamp,batch_id
+TRX-00027750,Roberta,Bicicleta,Deportes,Chiclayo,434.38,20,36,0.86,2026-05-13 15:22:38,6
+TRX-00019987,Pastor,Casaca,Ropa,Lima,686.4,13,25,0.79,2026-05-13 15:22:38,6
+TRX-00026207,Emma,Sandalias,Calzado,Lima,47.84,9,40,0.76,2026-05-13 15:22:36,6
+TRX-00071303,Toribio,Polo,Ropa,Trujillo,1619.76,403,30,0.75,2026-05-13 15:22:37,6
+TRX-00059460,Guadalupe,Botas,Calzado,Cusco,1904.13,234,16,0.74,2026-05-13 15:22:37,6
+TRX-00097573,Jose Ramón,Reloj,Accesorios,Cusco,2306.15,175,34,0.73,2026-05-13 15:22:39,6
+TRX-00019591,Estela,Polo,Ropa,Cusco,2051.16,87,19,0.72,2026-05-13 15:22:33,6
+TRX-00033270,Margarita,Correa,Accesorios,Cusco,2560.3,455,19,0.71,2026-05-13 15:22:34,6
+TRX-00029351,Isaura,Silla,Hogar,Lima,3102.04,364,13,0.7,2026-05-13 15:22:39,6
