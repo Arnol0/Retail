@@ -1,8 +1,8 @@
-# Rapídex: Plataforma Big Data Para Monitoreo De Pedidos Delivery En Tiempo Real
+# Retail: Plataforma Big Data Para Monitoreo De Pedidos Delivery En Tiempo Real
 
 ## 1. Descripción del caso
 
-Rapídex es una empresa ficticia de delivery que opera en varios distritos de Lima.
+Retail es una empresa ficticia de delivery que opera en varios distritos de Lima.
 La empresa necesita analizar pedidos históricos y eventos en tiempo real para detectar demanda, retrasos, cancelaciones y pedidos en riesgo.
 
 ## 2. Objetivo general
@@ -39,7 +39,7 @@ Construir una solución Big Data usando Apache Spark, Python y Kafka para proces
 ## 5. Estructura del proyecto
 
 ```text
-rapidex-bigdata-streaming/
+retail-bigdata-streaming/
 ├── data/
 │   ├── raw/
 │   ├── processed/
