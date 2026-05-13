@@ -1,9 +1,9 @@
 """
 =====================================================
-RAPÍDEX - SPARK STRUCTURED STREAMING
+RETAIL - SPARK STRUCTURED STREAMING
 =====================================================
 Autor: Grupo 11 - Módulo Streaming
-Descripción: Consume eventos del topic 'rapidex-eventos'
+Descripción: Consume eventos del topic 'retail-eventos'
              desde Kafka y aplica procesamiento en
              tiempo real con micro-batches de 10 segundos.
 
@@ -32,8 +32,8 @@ import logging
 # CONFIGURACIÓN
 # ─────────────────────────────────────────────
 KAFKA_BROKER  = 'localhost:9092'
-TOPIC_NAME    = 'rapidex-eventos'
-CHECKPOINT_DIR = '/tmp/rapidex/checkpoints'
+TOPIC_NAME    = 'retail-eventos'
+CHECKPOINT_DIR = '/tmp/retail/checkpoints'
 
 logging.basicConfig(level=logging.WARN)
 
@@ -69,7 +69,7 @@ spark = SparkSession.builder \
 spark.sparkContext.setLogLevel('WARN')
 
 print("=" * 55)
-print("  RAPÍDEX — SPARK STRUCTURED STREAMING")
+print("  RETAIL — SPARK STRUCTURED STREAMING")
 print("=" * 55)
 print(f"  Kafka Broker : {KAFKA_BROKER}")
 print(f"  Topic        : {TOPIC_NAME}")
