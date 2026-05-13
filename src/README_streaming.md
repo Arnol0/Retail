@@ -1,17 +1,17 @@
-# 📡 Módulo de Streaming — Rapídex
+#  Módulo de Streaming — Rapídex
 
 > **Autor:** Grupo 11 — Parte: Streaming Events  
 > **Tecnologías:** Apache Kafka + Spark Structured Streaming + Python
 
 ---
 
-## 📋 Descripción
+## Descripción
 
 Este módulo implementa el procesamiento de eventos en tiempo real para la plataforma **Rapídex**, una empresa ficticia de delivery en Lima. Los eventos son generados por un productor Kafka y procesados en tiempo real por Spark Structured Streaming con micro-batches de 10 segundos.
 
 ---
 
-## 🗂️ Archivos
+## Archivos
 
 | Archivo | Descripción |
 |---|---|
@@ -21,7 +21,7 @@ Este módulo implementa el procesamiento de eventos en tiempo real para la plata
 
 ---
 
-## 🔄 Tipos de Eventos
+## Tipos de Eventos
 
 | Tipo | Distribución | Campos específicos |
 |---|---|---|
@@ -32,7 +32,7 @@ Este módulo implementa el procesamiento de eventos en tiempo real para la plata
 
 ---
 
-## 📊 Queries del Streaming
+## Queries del Streaming
 
 | Query | Descripción | Frecuencia |
 |---|---|---|
@@ -43,7 +43,7 @@ Este módulo implementa el procesamiento de eventos en tiempo real para la plata
 
 ---
 
-## 🚀 Instrucciones de Ejecución
+## Instrucciones de Ejecución
 
 ### 1. Levantar el entorno Docker
 ```bash
@@ -69,7 +69,7 @@ python streaming/kafka_producer.py
 
 ---
 
-## 📸 Evidencias Esperadas
+## Evidencias Esperadas
 
 - Consola del producer mostrando los 2,000 eventos enviados
 - Salida de Spark Streaming con los micro-batches procesados
