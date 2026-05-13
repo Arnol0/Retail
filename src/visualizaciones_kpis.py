@@ -87,4 +87,4 @@ plt.close()
 
 print("Gráficos generados correctamente")
 print("Ruta:", ruta_visualizaciones)
-# Visualizaciones KPI Retail AA4,heber sayago 
+# Visualizaciones KPI Retail AA4,heber sayago,
