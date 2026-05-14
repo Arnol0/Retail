@@ -1,0 +1,3 @@
+transaction_id,customer_name,product_name,category,city,total_amount,stock_actual,stock_minimo,risk_score,event_timestamp,batch_id
+TRX-00060418,Raquel,Casaca,Ropa,Lima,3057.96,20,27,0.79,2026-05-13 15:22:44,7
+TRX-00073437,Heriberto,Silla,Hogar,Piura,2182.53,344,34,0.73,2026-05-13 15:22:42,7

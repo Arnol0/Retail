@@ -1,0 +1,8 @@
+transaction_id,customer_name,product_name,category,city,total_amount,stock_actual,stock_minimo,risk_score,event_timestamp,batch_id
+TRX-00052311,Javiera,Mochila,Accesorios,Lima,1501.38,429,14,0.74,2026-05-13 15:21:45,1
+TRX-00038408,Flor,Botas,Calzado,Chiclayo,3642.15,148,23,0.74,2026-05-13 15:21:49,1
+TRX-00097178,Carina,Sandalias,Calzado,Piura,1573.29,293,24,0.73,2026-05-13 15:21:43,1
+TRX-00092152,Vasco,Lámpara,Hogar,Chiclayo,2206.53,21,18,0.73,2026-05-13 15:21:48,1
+TRX-00089621,Áurea,Correa,Accesorios,Trujillo,3466.65,454,20,0.73,2026-05-13 15:21:48,1
+TRX-00005042,Alcides,Botas,Calzado,Lima,2992.0,88,19,0.72,2026-05-13 15:21:48,1
+TRX-00014610,Maximino,Correa,Accesorios,Trujillo,989.0,5,17,0.7,2026-05-13 15:21:44,1
